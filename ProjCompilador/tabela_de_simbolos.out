@@ -1,0 +1,18 @@
+Nome                          Tipo        Tipo(var)   Valor(var)  Linhas Reconhecidas   
+(                             Simbolo     N/A         N/A         30 31 32 33 34 36 
+<                             Simbolo     N/A         N/A         30 
+)                             Simbolo     N/A         N/A         30 31 32 33 34 36 
+==                            Simbolo     N/A         N/A         34 
+{                             Simbolo     N/A         N/A         30 32 34 
++                             Simbolo     N/A         N/A         35 
+,                             Simbolo     N/A         N/A         29 32 
+}                             Simbolo     N/A         N/A         37 38 39 
+if                            Simbolo     N/A         N/A         30 
+for                           Simbolo     N/A         N/A         32 
+int                           Simbolo     N/A         N/A         29 
+inicio                        Variavel    Inteiro     1           29 30 32 32 34 35 35 
+fim                           Variavel    Inteiro     10          29 30 32 
+print                         Simbolo     N/A         N/A         31 33 36 
+while                         Simbolo     N/A         N/A         34 
+:                             Simbolo     N/A         N/A         29 29 35 
+;                             Simbolo     N/A         N/A         29 31 33 35 36 37 38 39 

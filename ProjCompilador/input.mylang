@@ -1,0 +1,39 @@
+// int i:180;
+// print(i);
+
+// int inicio:0, limite: 10;
+// for(inicio, limite){
+//   print(inicio);
+// };
+
+
+// int valorint;
+// float seno, cosseno, logaritmo;
+// 
+// seno: sin(77);
+// print(seno);
+// cosseno: cos(77);
+// print(cosseno);
+// logaritmo: log(77);
+// print(logaritmo);
+
+// fun int func(int a, int b){
+//   int retorno: a + b;
+//   return retorno;
+// };
+// 
+// int valor: func(1,2);
+// print(valor);
+
+
+int inicio:0, fim: 10;
+if(inicio < fim){
+  print(1);
+  for(inicio, fim){
+    print(2);
+    while(inicio == 10){
+      inicio : inicio + 1;
+      print(3);
+    };
+  };
+};
